@@ -1,0 +1,327 @@
+	**Srinivas Lingutla**
+
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 2350
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 2350
+
+>> The number was successfully found!
+>> Location of 2350 in unsorted array is 165
+>> Total Number of comparisons: 166
+
+BINARY SEARCH for : 2350
+
+>> The number was successfully found!
+>> Location of 2350 in sorted array is 213
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 8657
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 8657
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 8657
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 9097
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 9097
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 9097
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 3827
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 3827
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 3827
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 9126
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 9126
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 9126
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 1269
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 1269
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 1269
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 2071
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 2071
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 2071
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 6651
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 6651
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 6651
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 3149
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 3149
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 3149
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 910
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 910
+
+>> The number was not found!
+>> Total Number of comparisons: 943
+
+BINARY SEARCH for : 910
+
+>> The number was not found!
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 12
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 12
+
+>> The number was successfully found!
+>> Location of 12 in unsorted array is 95
+>> Total Number of comparisons: 96
+
+BINARY SEARCH for : 12
+
+>> The number was successfully found!
+>> Location of 12 in sorted array is 2
+>> Total Number of comparisons: 8
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 1011
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 1011
+
+>> The number was successfully found!
+>> Location of 1011 in unsorted array is 197
+>> Total Number of comparisons: 198
+
+BINARY SEARCH for : 1011
+
+>> The number was successfully found!
+>> Location of 1011 in sorted array is 101
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 2587
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 2587
+
+>> The number was successfully found!
+>> Location of 2587 in unsorted array is 899
+>> Total Number of comparisons: 900
+
+BINARY SEARCH for : 2587
+
+>> The number was successfully found!
+>> Location of 2587 in sorted array is 231
+>> Total Number of comparisons: 8
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 3437
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 3437
+
+>> The number was successfully found!
+>> Location of 3437 in unsorted array is 938
+>> Total Number of comparisons: 939
+
+BINARY SEARCH for : 3437
+
+>> The number was successfully found!
+>> Location of 3437 in sorted array is 310
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 4443
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 4443
+
+>> The number was successfully found!
+>> Location of 4443 in unsorted array is 202
+>> Total Number of comparisons: 203
+
+BINARY SEARCH for : 4443
+
+>> The number was successfully found!
+>> Location of 4443 in sorted array is 402
+>> Total Number of comparisons: 9
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 5528
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 5528
+
+>> The number was successfully found!
+>> Location of 5528 in unsorted array is 920
+>> Total Number of comparisons: 921
+
+BINARY SEARCH for : 5528
+
+>> The number was successfully found!
+>> Location of 5528 in sorted array is 502
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 6815
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 6815
+
+>> The number was successfully found!
+>> Location of 6815 in unsorted array is 936
+>> Total Number of comparisons: 937
+
+BINARY SEARCH for : 6815
+
+>> The number was successfully found!
+>> Location of 6815 in sorted array is 625
+>> Total Number of comparisons: 7
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 7722
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 7722
+
+>> The number was successfully found!
+>> Location of 7722 in unsorted array is 941
+>> Total Number of comparisons: 942
+
+BINARY SEARCH for : 7722
+
+>> The number was successfully found!
+>> Location of 7722 in sorted array is 713
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 8097
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 8097
+
+>> The number was successfully found!
+>> Location of 8097 in unsorted array is 124
+>> Total Number of comparisons: 125
+
+BINARY SEARCH for : 8097
+
+>> The number was successfully found!
+>> Location of 8097 in sorted array is 751
+>> Total Number of comparisons: 6
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 9676
+
+SIZE of array: 943
+
+LINEAR SEARCH for : 9676
+
+>> The number was successfully found!
+>> Location of 9676 in unsorted array is 92
+>> Total Number of comparisons: 93
+
+BINARY SEARCH for : 9676
+
+>> The number was successfully found!
+>> Location of 9676 in sorted array is 910
+>> Total Number of comparisons: 10
+-------------------------------------------------------------------------------
+
+Please enter the number to search: 
